@@ -1,11 +1,14 @@
 <h1 align="center">Hii 👋, I'm Sanskar Singh</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
+<h3>
+  
 - 🌱 I’m currently learning **DSA in C++**
 - 🧑‍💻 Working on honing my software development skills
 - 🚀 My SDE portfolio  **[http://bit.ly/sde_portfolio](http://bit.ly/sde_portfolio)**
 - 📫 You can email me at **sanskar.singh.eee21@iitbhu.ac.in**
 - 🧩 Another day, another bug hunt.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
