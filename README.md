@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/sanskarsingh_iitbhu_21/">
-    <img src="https:/y/skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a> &nbsp
   <a href="https://www.linkedin.com/in/sanskar-singh-7a6b2b241/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
