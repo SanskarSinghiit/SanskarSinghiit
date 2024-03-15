@@ -13,9 +13,6 @@
   </a> &nbsp
   <a href="https://www.linkedin.com/in/sanskar-singh-7a6b2b241/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> &nbsp
-  <a href=" https://mail.google.com/mail/u/?authuser=sanskar.singh.eee21@iitbhu.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
