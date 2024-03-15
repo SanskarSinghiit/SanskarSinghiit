@@ -3,13 +3,14 @@
 
 - 🌱 I’m currently learning **DSA in C++**
 - 🧑‍💻 Working on honing my software development skills
-- 🚀 All of my projects are available at **[http://bit.ly/sde_portfolio](http://bit.ly/sde_portfolio)**
+- 🚀 My SDE portfolio  **[http://bit.ly/sde_portfolio](http://bit.ly/sde_portfolio)**
 - 📫 You can email me at **sanskar.singh.eee21@iitbhu.ac.in**
+- 🧩 Another day, another bug hunt.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/sanskarsingh_iitbhu_21/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https:/y/skillicons.dev/icons?i=instagram" />
   </a> &nbsp
   <a href="https://www.linkedin.com/in/sanskar-singh-7a6b2b241/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -18,7 +19,14 @@
 
 ### Languages and Tools:
 
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode&perline=3" />
+</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+</p>
+<p align="left">
+  
+  <img src="https://skillicons.dev/icons?i=py,arduino" />
 </p>
 
