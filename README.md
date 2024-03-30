@@ -5,7 +5,6 @@
   
 - 🌱 I’m currently learning **DSA in C++**
 - 🧑‍💻 Working on honing my software development skills
-- 🚀 My SDE portfolio  **[http://bit.ly/sde_portfolio](http://bit.ly/sde_portfolio)**
 - 📫 You can email me at **sanskar.singh.eee21@iitbhu.ac.in**
 - 🧩 Another day, another bug hunt.
 </h3>
