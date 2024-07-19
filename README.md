@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **DSA in C++**
 - 🧑‍💻 Working on honing my software development skills
 - 📫 You can email me at **sanskar.singh.eee21@iitbhu.ac.in**
-- 🧩 Another day, another bug hunt.
+- 🐛 Another day, another bug hunt.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,14 +21,18 @@
 
 ### Languages and Tools:
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,vscode&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode&perline=3&theme=light" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=github,git" />
 </p>
 <p align="left">
-  
-  <img src="https://skillicons.dev/icons?i=py,arduino" />
+  <img src="https://skillicons.dev/icons?i=py" />
 </p>
-
