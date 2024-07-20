@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Sanskar Singh</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <h3>
   
