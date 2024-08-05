@@ -22,13 +22,13 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py&perline=3&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py&perline=4" />
 </p>
 
 [![Sanskar Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanskarSinghiit&theme=github-compact)](https://github.com/SanskarSinghiit/github-readme-activity-graph)
