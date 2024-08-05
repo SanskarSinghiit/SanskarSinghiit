@@ -28,13 +28,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,vscode&perline=3&theme=light" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py&perline=3&theme=light" />
 </p>
 
 [![Sanskar Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanskarSinghiit&theme=github-compact)](https://github.com/SanskarSinghiit/github-readme-activity-graph)
