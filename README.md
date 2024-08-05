@@ -37,7 +37,4 @@
   <img src="https://skillicons.dev/icons?i=py" />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanskarSinghiit&hide_border=true&border_radius=)](https://git.io/streak-stats)
-
 [![Sanskar Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanskarSinghiit&theme=github-compact)](https://github.com/SanskarSinghiit/github-readme-activity-graph)
